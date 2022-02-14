@@ -1,0 +1,276 @@
+,ShirtNumber,PlayerName,Team,AttackPoints,BlockPoints,ServePoints,TotalPoints
+0,3,Herbots Britt,BEL,314,12,11,337
+1,99,Karakurt Ebrar,TUR,250,21,18,289
+2,9,Stysiak Magdalena,POL,245,22,16,283
+3,11,Caixeta Tandara,BRA,234,25,5,264
+4,2,Koga Sarina,JPN,226,11,17,254
+5,3,Van Ryk Kiera,CAN,211,20,18,249
+6,19,Daalderop Nika,NED,208,19,15,242
+7,8,Ishikawa Mayu,JPN,202,9,15,226
+8,9,Zhang Changning,CHN,187,27,11,225
+9,1,Kurogo Ai,JPN,197,8,18,223
+10,10,Braga Guimaraes Gabriela,BRA,185,22,8,215
+11,14,Erdem Dündar Eda,TUR,143,46,19,208
+12,10,Kim Yeon Koung,KOR,181,8,7,196
+13,16,Rodrigues Fernanda,BRA,165,23,6,194
+14,5,Fedorovtseva Arina,RUS,159,14,17,190
+15,8,Goncharova Nataliya,RUS,162,19,4,185
+16,12,Orthmann Hanna,GER,146,16,21,183
+17,18,De La Cruz De Peña Bethania,DOM,162,6,13,181
+18,6,Sittirak Onuma,THA,167,1,5,173
+19,15,Nwakalor Sylvia Chinelo,ITA,155,13,5,173
+20,13,Park Jeongah,KOR,151,14,4,169
+21,9,Alsmeier Lina,GER,143,13,8,164
+22,7,Baladin Hande,TUR,140,13,10,163
+23,5,Thinkaow Pleumjit,THA,132,19,12,163
+24,11,Buijs Anne,NED,142,15,5,162
+25,17,Smarzek Malwina,POL,140,17,3,160
+26,7,Van Gestel Celine,BEL,131,9,18,158
+27,13,Janssens Marlies,BEL,95,40,23,158
+28,14,Rivera Brens Prisilla,DOM,136,10,11,157
+29,16,Voronkova Irina,RUS,132,8,12,152
+30,20,Martinez Brayelin Elizabeth,DOM,136,9,4,149
+31,11,Drews Andrea,USA,133,6,9,148
+32,23,Timmerman Eline,NED,101,37,9,147
+33,2,Lazovic Katarina,SRB,122,9,12,143
+34,12,Thompson Jordan,USA,118,19,6,143
+35,11,Mitrovic Andrea,CAN,127,5,8,140
+36,14,Howe Hilary,CAN,117,17,6,140
+37,21,Martinez Jineiry,DOM,98,33,7,138
+38,14,Bartsch-Hackley Michelle,USA,113,15,10,138
+39,3,Caric Sara,SRB,113,20,2,135
+40,22,Lozo Sara,SRB,110,10,14,134
+41,8,Drewniok Kimberly,GER,119,8,6,133
+42,11,Lukasik Martyna,POL,100,17,16,133
+43,19,Maglio Emily,CAN,94,31,6,131
+44,1,Lee Soyoung,KOR,114,5,11,130
+45,16,Peña Isabel Yonkaira Paola,DOM,117,8,3,128
+46,21,Weitzel Camilla,GER,78,27,21,126
+47,6,Koroleva Irina,RUS,72,38,11,121
+48,28,Melli Giulia,ITA,106,13,2,121
+49,19,Mingardi Camilla,ITA,106,8,4,118
+50,19,Van Avermaet Silke,BEL,86,20,10,116
+51,10,Larson Jordan,USA,101,4,8,113
+52,15,Kanthong Malika,THA,100,5,5,110
+53,29,D'Odorico Sofia,ITA,94,6,10,110
+54,22,Washington Haleigh,USA,77,19,13,109
+55,14,Schölzel Marie,GER,78,23,6,107
+56,88,Gorecka Zuzanna,POL,87,13,7,107
+57,2,De Oliveira Saad Gattaz Caroline,BRA,78,21,6,105
+58,21,Kocic Jovana,SRB,57,43,4,104
+59,15,Da Silva Ana Carolina,BRA,59,35,9,103
+60,23,Robinson Kelsey,USA,81,9,11,101
+61,24,Mazzaro Alessia,ITA,64,26,9,99
+62,5,Araki Erika,JPN,64,21,12,97
+63,26,Dambrink Elles,NED,82,6,7,95
+64,16,Jeong Jiyun,KOR,80,9,5,94
+65,23,Gonzalez Lopez Gaila Ceneida,DOM,76,6,12,94
+66,12,Cross Jennifer,CAN,56,27,9,92
+67,7,Lohuis Juliet,NED,65,15,12,92
+68,34,Mirosavljevic Jovana,SRB,76,10,5,91
+69,13,Boz Meryem,TUR,82,4,3,89
+70,8,Li Yao,CHN,73,11,5,89
+71,9,Chuewulim Sutadta,THA,86,0,2,88
+72,3,Alagierska Klaudia,POL,62,20,6,88
+73,12,Li Yingying,CHN,79,3,6,88
+74,5,Guilliams Jodie,BEL,73,7,6,86
+75,4,Senoglu Tugba,TUR,69,11,6,86
+76,4,Yang Hanyu,CHN,58,22,2,82
+77,12,Guerra Anastasia,ITA,69,9,4,82
+78,9,Ismailoglu Meliha,TUR,61,12,7,80
+79,10,Efimienko-Mlotkowska Zuzanna,POL,52,20,8,80
+80,7,Wang Yuanyuan,CHN,62,13,4,79
+81,16,Akinradewo Foluke,USA,64,14,1,79
+82,3,Shimamura Haruyo,JPN,62,13,3,78
+83,14,Yang Hyo Jin,KOR,50,23,3,76
+84,20,Correa Ana Beatriz,BRA,45,25,5,75
+85,6,Gong Xiangyu,CHN,65,5,3,73
+86,19,Krause Karina,THA,67,4,1,72
+87,15,Kosheleva Tatyana,RUS,52,12,5,69
+88,21,Lubian Marina,ITA,43,9,13,65
+89,25,Smirnova Kseniia,RUS,55,2,6,63
+90,14,Fetisova Irina,RUS,32,26,4,62
+91,4,Bonifacio Sara,ITA,45,9,7,61
+92,1,Yuan Xinyue,CHN,41,13,7,61
+93,4,Plak Celeste,NED,56,2,1,59
+94,18,Gunes Zehra,TUR,43,12,4,59
+95,32,Omoruyi Oghosasere Loveth,ITA,50,6,2,58
+96,26,Savic Vanja,SRB,48,4,5,57
+97,2,Zhu Ting,CHN,51,4,2,57
+98,16,Baijens Indy,NED,44,7,2,53
+99,24,Medic Sofija,SRB,25,19,8,52
+100,19,Liu Yanhan,CHN,46,5,1,52
+101,5,Kakolewska Agnieszka,POL,28,17,5,50
+102,7,Montibeller Rosamaria,BRA,46,2,2,50
+103,12,Bongaerts Britt,NED,27,12,10,49
+104,1,Vargas Valdez Annerys Victoria,DOM,30,16,2,48
+105,24,Ogbogu Chiaka,USA,30,15,3,48
+106,6,Caliskan Kubra,TUR,28,14,4,46
+107,7,Vanjak Ivana,GER,38,4,3,45
+108,19,Yamada Nichika,JPN,37,6,2,45
+109,22,Duan Fang,CHN,33,8,4,45
+110,15,Joseph Shainah,CAN,38,3,3,44
+111,17,Yan Ni,CHN,22,18,3,43
+112,10,Stigrot Lena,GER,37,2,3,42
+113,8,Park Eunjin,KOR,25,5,11,41
+114,3,Özbay Cansu,TUR,20,10,10,40
+115,6,Janiska Jennifer,GER,27,10,3,40
+116,10,Liu Xiaotong,CHN,37,1,1,39
+117,3,Eve Mejia Lisvel Elisa,DOM,25,11,2,38
+118,4,Imoudu Denise,GER,24,8,5,37
+119,2,Lee Dahyeon,KOR,24,13,0,37
+120,19,Pyo Seungju,KOR,29,3,5,37
+121,10,Sobolska Dominika,BEL,19,15,2,36
+122,6,Uzelac Aleksandra,SRB,32,3,1,36
+123,13,Wilhite Sarah,USA,29,5,2,36
+124,20,Czyrnianska Martyna,POL,29,6,0,35
+125,13,King Brie,CAN,13,13,9,35
+126,15,Hill Kimberly,USA,26,7,0,33
+127,27,Scholten Iris,NED,23,6,3,32
+128,7,Ishii Yuki,JPN,28,3,0,31
+129,12,Han Songyi,KOR,25,5,1,31
+130,27,Furlan Eleonora,ITA,18,12,1,31
+131,1,Hancock Micha,USA,9,6,14,29
+132,1,Nowicka Julia,POL,12,10,7,29
+133,7,Jaksic Ana,SRB,14,9,5,28
+134,25,Markovic Bozica,SRB,22,3,3,28
+135,5,Poll Jana Franziska,GER,20,3,5,28
+136,19,Kalac Asli,TUR,21,4,2,27
+137,3,Plummer Kathryn,USA,22,3,2,27
+138,2,Bosio Francesca,ITA,5,5,16,26
+139,2,Poulter Jordyn,USA,8,10,8,26
+140,11,Brovkina Yulia,RUS,16,7,2,25
+141,21,Hayashi Kotona,JPN,22,1,2,25
+142,18,Jasper Marrit,NED,20,1,3,24
+143,6,Dixon Tetori,USA,17,5,2,24
+144,13,Startseva Evgeniya,RUS,15,5,3,23
+145,12,Lazareva Anna,RUS,21,2,0,23
+146,17,Mambru Casilla Gina Altagracia,DOM,20,1,1,22
+147,8,Tapp Hannah,USA,15,6,1,22
+148,25,Piva Rebecca,ITA,17,3,2,22
+149,13,Okumura Mai,JPN,11,6,4,21
+150,5,Da Silva Adenizia,BRA,13,6,2,21
+151,28,Araujo De Souza Mayany Cristina,BRA,16,3,2,21
+152,17,Van De Vyver Ilka,BEL,3,4,12,19
+153,13,Tomkom Nootsara,THA,10,3,6,19
+154,7,Marte Frica Niverka Dharlenis,DOM,11,2,6,19
+155,8,Silva Carneiro Macris Fernanda,BRA,5,8,6,19
+156,22,Aydin İlkin,TUR,19,0,0,19
+157,23,Djordjevic Mila,SRB,9,8,1,18
+158,24,Momii Aki,JPN,6,11,1,18
+159,11,Hyapha Amporn,THA,11,1,5,17
+160,30,Rozanski Olivia,POL,14,3,0,17
+161,12,Pereira Natalia,BRA,15,2,0,17
+162,11,Aydemir Akyol Naz,TUR,6,6,4,16
+163,3,Yeum Hye Seon,KOR,5,0,11,16
+164,5,Gao Yi,CHN,10,2,3,15
+165,4,Lemmens Nathalie,BEL,8,6,1,15
+166,11,Nabeya Yurie,JPN,11,1,3,15
+167,2,Kästner Pia,GER,6,4,4,14
+168,24,Geraldo Teixeira Lorenne,BRA,13,0,1,14
+169,13,Castro De Paula Blassioli Sheilla,BRA,11,0,2,13
+170,8,Ogoms Alicia,CAN,9,4,0,13
+171,8,Guveli Yasemin,TUR,6,4,2,12
+172,3,Diao Linyu,CHN,5,3,3,11
+173,14,Zheng Yixin,CHN,8,0,2,10
+174,10,Matveeva Polina,RUS,5,4,1,10
+175,6,Gilson Helena,BEL,9,0,0,9
+176,5,Ercan Seyma,TUR,7,0,2,9
+177,28,Delic Jelena,SRB,0,7,2,9
+178,10,Apinyapong Wilavan,THA,8,1,0,9
+179,24,Nuanjam Watchareeya,THA,7,1,1,9
+180,7,Carlini Lauren,USA,3,3,3,9
+181,17,Menezes Oliveira de Souza Ana Cristina,BRA,7,1,1,9
+182,16,Livingston Caroline,CAN,7,0,2,9
+183,10,Akutagawa Aika,JPN,6,2,1,9
+184,26,Wenerska Katarzyna,POL,5,1,3,9
+185,14,De Valkeneer Lise,BEL,6,2,0,8
+186,2,Malygina Daria,RUS,4,3,1,8
+187,23,Kapustina Irina,RUS,4,1,3,8
+188,14,Juangjan Pattiya,THA,8,0,0,8
+189,11,Yao Di,CHN,1,5,2,8
+190,15,Yuk Seoyoung,KOR,8,0,0,8
+191,11,Rodriguez Marifranchi,DOM,7,1,0,8
+192,8,Korevaar Demi,NED,3,3,1,7
+193,7,An Hyejin,KOR,1,3,3,7
+194,22,Nilapa Chatsuda,THA,5,0,2,7
+195,78,Gryka Aleksandra,POL,5,1,1,7
+196,19,Fedusio Monika,POL,6,0,0,6
+197,16,Ding Xia,CHN,2,4,0,6
+198,12,Chaisri Tapaphaipun,THA,4,0,1,5
+199,6,Kim Dain,KOR,1,2,2,5
+200,27,Bukilic Vanja,SRB,5,0,0,5
+201,2,Van Sas Elise,BEL,0,3,1,4
+202,20,Lazareva Ekaterina,RUS,2,0,2,4
+203,20,Seki Nanami,JPN,2,1,1,4
+204,27,Łazowska Martyna,POL,3,1,0,4
+205,7,Van Buskirk Layne,CAN,3,1,0,4
+206,21,Stragier Manon,BEL,1,0,2,3
+207,9,Tashiro Kanami,JPN,2,1,0,3
+208,16,Ambrosius Lea,GER,2,0,0,2
+209,20,Bock Josepha,GER,1,1,0,2
+210,6,Dominguez Martinez Camil Inmaculada,DOM,1,0,1,2
+211,18,Robitaille Kim,CAN,0,2,0,2
+212,33,Cvetkovic Jovana,SRB,2,0,0,2
+213,24,Pipunyrova Ekaterina,RUS,0,0,2,2
+214,12,Unal Buse,TUR,1,1,0,2
+215,22,Morello Rachele,ITA,0,1,1,2
+216,2,Savelkoel Fleur,NED,1,0,0,1
+217,1,Bock Linda,GER,0,0,1,1
+218,3,ManaKij Sirima,THA,1,0,0,1
+219,26,Battistoni Ilaria,ITA,0,1,0,1
+220,3,Rodrigues Lins Dos Santos Danielle,BRA,0,1,0,1
+221,6,White Jazmine Ruth,CAN,1,0,0,1
+222,21,Meijers Annick,NED,1,0,0,1
+223,20,Phomla Soraya,THA,1,0,0,1
+224,1,Knip Kirsten,NED,0,0,0,0
+225,9,Schoot Myrthe,NED,0,0,0,0
+226,10,van Aalen Sarah,NED,0,0,0,0
+227,24,de Zwart Laura,NED,0,0,0,0
+228,9,Demeyer Nel,BEL,0,0,0,0
+229,15,Van De Vyver Jutta,BEL,0,0,0,0
+230,18,Rampelberg Britt,BEL,0,0,0,0
+231,2,Akoz Simge Sebnem,TUR,0,0,0,0
+232,10,Aykac Ayca,TUR,0,0,0,0
+233,31,Djurdjevic Sanja,SRB,0,0,0,0
+234,32,Gocanin Bojana,SRB,0,0,0,0
+235,17,Pogany Anna,GER,0,0,0,0
+236,4,Pilipenko Daria,RUS,0,0,0,0
+237,22,Zaytseva Tamara,RUS,0,0,0,0
+238,14,Kobata Mako,JPN,0,0,0,0
+239,15,Inoue Kotoe,JPN,0,0,0,0
+240,2,Pannoy Piyanut,THA,0,0,0,0
+241,8,Sang-Ob Tirawan,THA,0,0,0,0
+242,15,Lin Li,CHN,0,0,0,0
+243,18,Wang Mengjie,CHN,0,0,0,0
+244,5,Han Dahye,KOR,0,0,0,0
+245,9,Oh Jiyoung,KOR,0,0,0,0
+246,5,Castillo Brenda,DOM,0,0,0,0
+247,25,Martinez Caro Larysmer,DOM,0,0,0,0
+248,4,Wong-Orantes Justine,USA,0,0,0,0
+249,17,Courtney Megan,USA,0,0,0,0
+250,23,De Bortoli Chiara,ITA,0,0,0,0
+251,31,Fersino Eleonora,ITA,0,0,0,0
+252,8,Stenzel Maria,POL,0,0,0,0
+253,13,Jagla Monika,POL,0,0,0,0
+254,6,Alexandre Costa Nunes Nyeme Victoria,BRA,0,0,0,0
+255,18,Brait Camila,BRA,0,0,0,0
+256,1,Bujan Cassandra,CAN,0,0,0,0
+257,5,Smith Danielle,CAN,0,0,0,0
+258,9,Gray Alexa,CAN,0,0,0,0
+259,23,Austin Parker Jane,CAN,0,0,0,0
+260,17,Piampongsan Gullapa,THA,0,0,0,0
+261,12,Krenicky Charlotte,BEL,0,0,0,0
+262,9,Gorbunova Valeriia,RUS,0,0,0,0
+263,9,Ratzke Roberta Silva,BRA,0,0,0,0
+264,12,Perez Flores Yokaty,DOM,0,0,0,0
+265,21,Druzkowska Karolina,POL,0,0,0,0
+266,24,Cekulaev Anastasia,GER,0,0,0,0
+267,22,Snape Kennedy Brooklyn,CAN,0,0,0,0
+268,13,Jasper Hester,NED,0,0,0,0
+269,19,Podkopaeva Anna,RUS,0,0,0,0
+270,16,Sahin Saliha,TUR,0,0,0,0
+271,20,Cebecioglu Derya,TUR,0,0,0,0
+272,11,De Tant Amber,BEL,0,0,0,0
+273,25,Reesink Florien,NED,0,0,0,0
+274,17,Oude Luttikhuis Nicole,NED,0,0,0,0
