@@ -18,4 +18,4 @@
 * [Gráfico 2- Cinco estados com mais despesas liquidadas na educação](https://thaisgabriele.github.io/topmais.html)
 * [Gráfico 3- Cinco estados com menos despesas liquidadas na educação](https://thaisgabriele.github.io/topmenos.html)
 
-![alt text](https://github.com/ThaisGabriele/DataAnalyticsProjects/blob/main/Analisando_dados_Siconfi/viz.png)
+![alt text](https://github.com/ThaisGabriele/DataAnalyticsProjects/blob/main/Analisando_dados_Siconfi/viz2.png)
