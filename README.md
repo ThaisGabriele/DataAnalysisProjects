@@ -18,7 +18,7 @@ liquidadas na área da Educação pelos Estados brasileiros.
 	* Visualização interativa dos dados com Plotly
 	
 **Project 3 - Analisando_dados_olimpicos** : este projeto tem o objetivo de explorar e analisar os dados do voleibol mundial e brasileiro 
-nas 0limpíadas.
+nas Olimpíadas.
 
 	* Análise exploratória dos dados com Pandas
 	* Visualização dos dados com Plotly, Seaborn e Matplotlib
